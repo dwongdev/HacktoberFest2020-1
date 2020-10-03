@@ -143,3 +143,8 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+
+Name: [Coder Wong](https://github.com/dwongdev)<br/>
+Place: Australia<br/>
+About: EE<br/>
+<br/>
